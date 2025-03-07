@@ -1,5 +1,5 @@
 {
- "os_environment": "Windows_NT, win32",
+ "os_environment": "Windows_NT",
  "python_version": "3.9.12 (main, Apr  4 2022, 05:22:27) [MSC v.1916 64 bit (AMD64)]",
  "jupyter_environment": "Selected Jupyter core packages...\nIPython: 8.18.1\nipykernel: 6.29.5\nipywidgets: not installed\njupyter_client: 8.6.3\njupyter_core: 5.7.2\njupyter_server: not installed\njupyterlab: not installed\nnbclient: not installed\nnbconvert: not installed\nnbformat: not installed\nnotebook: not installed\nqtconsole: not installed\ntraitlets: 5.14.3",
  "skill_level": "beginner"
