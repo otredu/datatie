@@ -17,4 +17,9 @@ localhost:8888/lab
 import pandas as pd
 print('Hello Jupyter!')
 
+------
+new start:
+1. start docker
+2. from VSCode: new devcontainer -> start
+
 
