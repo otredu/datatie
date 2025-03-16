@@ -20,6 +20,12 @@ print('Hello Jupyter!')
 ------
 new start:
 1. start docker
-2. from VSCode: new devcontainer -> start
+2. from VSCode: new devcontainer -> start 
+3. select miniconda
+4. conda install pandas
+5. conda install scikit-learn
+6. conda install matplotlib
+
+
 
 
